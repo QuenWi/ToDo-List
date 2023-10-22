@@ -1,0 +1,5 @@
+C:\Users\Test Wilkes\Desktop\desktop C#\Projekte\ToDoList\ToDoList\bin\Release\net6.0-windows\publish\ToDoList.exe
+C:\Users\Test Wilkes\Desktop\desktop C#\Projekte\ToDoList\ToDoList\bin\Release\net6.0-windows\publish\ToDoList.dll
+C:\Users\Test Wilkes\Desktop\desktop C#\Projekte\ToDoList\ToDoList\bin\Release\net6.0-windows\publish\ToDoList.deps.json
+C:\Users\Test Wilkes\Desktop\desktop C#\Projekte\ToDoList\ToDoList\bin\Release\net6.0-windows\publish\ToDoList.runtimeconfig.json
+C:\Users\Test Wilkes\Desktop\desktop C#\Projekte\ToDoList\ToDoList\bin\Release\net6.0-windows\publish\ToDoList.pdb
